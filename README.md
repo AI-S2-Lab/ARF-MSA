@@ -15,7 +15,7 @@
 
 
 
-This paper was accepted by **IEEE Transactions on Affective Computing (IEEE/ACM TAFFC), 2024**
+This paper was accepted by **IEEE Transactions on Affective Computing (IEEE TAFFC), 2024**
 
  
 
