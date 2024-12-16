@@ -11,7 +11,7 @@
 * (Qiyuan Sun and Haolin Zuo contributed equally to this work.) 
 
 
-* (Corresponding Q1 author: Rui Liu.)
+* (Corresponding author: Rui Liu.)
 
 
 
