@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ibug-emotion-recognition
+Version: 0.1.0
+Summary: Emotion recognition using face alignment features with spatial attention.
+Author: Jie Shen
+Author-email: js1907@imperial.ac.uk
+License-File: LICENSE

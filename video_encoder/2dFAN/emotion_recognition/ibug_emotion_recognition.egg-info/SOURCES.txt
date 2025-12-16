@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ibug/emotion_recognition/__init__.py
+ibug_emotion_recognition.egg-info/PKG-INFO
+ibug_emotion_recognition.egg-info/SOURCES.txt
+ibug_emotion_recognition.egg-info/dependency_links.txt
+ibug_emotion_recognition.egg-info/not-zip-safe
+ibug_emotion_recognition.egg-info/requires.txt
+ibug_emotion_recognition.egg-info/top_level.txt
